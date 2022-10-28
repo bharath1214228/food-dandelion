@@ -1,0 +1,25 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+dandelionchocolate.com	TRUE	/	FALSE	1999999999	_tracking_consent	%7B%22lim%22%3A%5B%22CCPA%22%2C%22GDPR%22%5D%2C%22reg%22%3A%22%22%2C%22con%22%3A%7B%22CCPA%22%3A%22%22%2C%22GDPR%22%3A%22%22%7D%2C%22v%22%3A%222.0%22%7D
+dandelionchocolate.com	TRUE	/	FALSE	1999999999	_landing_page	%2Fpages%2Fhome
+dandelionchocolate.com	TRUE	/	FALSE	1999999999	zy_sid	E99AFB53-A937-FBEF-8195-41C369128DC6
+store.dandelionchocolate.com	TRUE	/	FALSE	1999999999	zy_did	43F42942-6DD2-B9B1-76C7-FDBFC63F00B6
+store.dandelionchocolate.com	TRUE	/	FALSE	1999999999	zy_bid	9
+store.dandelionchocolate.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+store.dandelionchocolate.com	TRUE	/	FALSE	1999999999	localization	US
+store.dandelionchocolate.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+store.dandelionchocolate.com	TRUE	/	FALSE	1999999999	cart_currency	USD
+store.dandelionchocolate.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+dandelionchocolate.com	TRUE	/	FALSE	1999999999	_y	6566389b-7938-401a-89f7-795ebfae2c41
+store.dandelionchocolate.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+dandelionchocolate.com	TRUE	/	FALSE	1999999999	_s	679c34de-53e3-4d03-be0d-527b66c7f474
+store.dandelionchocolate.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+dandelionchocolate.com	TRUE	/	FALSE	1999999999	_shopify_y	6566389b-7938-401a-89f7-795ebfae2c41
+store.dandelionchocolate.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+dandelionchocolate.com	TRUE	/	FALSE	1999999999	_shopify_s	679c34de-53e3-4d03-be0d-527b66c7f474
+store.dandelionchocolate.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+dandelionchocolate.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+dandelionchocolate.com	TRUE	/	FALSE	1999999999	_shopify_m	persistent
+store.dandelionchocolate.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+store.dandelionchocolate.com	TRUE	/	FALSE	1999999999	abtest	b
+
